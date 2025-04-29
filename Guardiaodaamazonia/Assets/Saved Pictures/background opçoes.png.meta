@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 971c2a40b93cd500a8153e5d62f65c6c
+guid: 642d7bcd69662fa4087a657e285489cf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4467333140024790848
-    second: yara_32x-removebg-preview_0
+      213: -3754403971266032080
+    second: "background op\xE7oes_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yara_32x-removebg-preview_0
+      name: "background op\xE7oes_0"
       rect:
         serializedVersion: 2
-        x: 147
-        y: 33
-        width: 189
-        height: 441
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c0fd779d28d002c0800000000000000
-      internalID: -4467333140024790848
+      spriteID: 03e4f55da7da5ebc0800000000000000
+      internalID: -3754403971266032080
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      yara_32x-removebg-preview_0: -4467333140024790848
+      "background op\xE7oes_0": -3754403971266032080
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

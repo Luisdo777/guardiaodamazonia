@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 971c2a40b93cd500a8153e5d62f65c6c
+guid: 5ba88f3278ded415da2368104f9505f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4467333140024790848
-    second: yara_32x-removebg-preview_0
+      213: 486512637042978070
+    second: grass_block_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,40 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yara_32x-removebg-preview_0
+      name: grass_block_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 33
-        width: 189
-        height: 441
+        x: 0
+        y: 0
+        width: 250
+        height: 250
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c0fd779d28d002c0800000000000000
-      internalID: -4467333140024790848
+      spriteID: 61d6fad6aa070c600800000000000000
+      internalID: 486512637042978070
       vertices: []
       indices: 
       edges: []
@@ -138,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      yara_32x-removebg-preview_0: -4467333140024790848
+      grass_block_0: 486512637042978070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

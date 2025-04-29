@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 971c2a40b93cd500a8153e5d62f65c6c
+guid: a46779fa113283e4baf50b0c27bf1bac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4467333140024790848
-    second: yara_32x-removebg-preview_0
+      213: -3489405895955705157
+    second: yara_pulo-removebg-preview_0
+  - first:
+      213: -4073248929711064305
+    second: yara_pulo-removebg-preview_1
+  - first:
+      213: 5943146766051450282
+    second: yara_pulo-removebg-preview_2
+  - first:
+      213: 5026545875496914172
+    second: yara_pulo-removebg-preview_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yara_32x-removebg-preview_0
+      name: yara_pulo-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 33
-        width: 189
-        height: 441
+        x: 0
+        y: 0
+        width: 125
+        height: 500
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c0fd779d28d002c0800000000000000
-      internalID: -4467333140024790848
+      spriteID: 6c496ab97cb78b64c80bffc30cf6d11d
+      internalID: -1067847515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_pulo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54542967ca6494dbcd176824d5772e
+      internalID: -739803031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_pulo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fdc3cff87f044d8594dd31d184e6b
+      internalID: -523327505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_pulo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663682632eb15b54fbe54ffc824dec52
+      internalID: -1422346193
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: 95436014d5f280344a44c8ce6ff11480
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      yara_32x-removebg-preview_0: -4467333140024790848
+      yara_pulo-removebg-preview_0: -1067847515
+      yara_pulo-removebg-preview_1: -739803031
+      yara_pulo-removebg-preview_2: -523327505
+      yara_pulo-removebg-preview_3: -1422346193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

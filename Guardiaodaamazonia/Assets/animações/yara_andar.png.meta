@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 971c2a40b93cd500a8153e5d62f65c6c
+guid: ce2d0d5774602e54492aca829859028a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4467333140024790848
-    second: yara_32x-removebg-preview_0
+      213: -3083980226060554788
+    second: yara_andar_0
+  - first:
+      213: -2206655934835939252
+    second: yara_andar_1
+  - first:
+      213: 4393128978271544207
+    second: yara_andar_2
+  - first:
+      213: -42909212188307306
+    second: yara_andar_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yara_32x-removebg-preview_0
+      name: yara_andar_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 33
-        width: 189
-        height: 441
+        x: 0
+        y: 0
+        width: 256
+        height: 1024
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c0fd779d28d002c0800000000000000
-      internalID: -4467333140024790848
+      spriteID: e1ff9c8c5b93a104692dd664ead2696c
+      internalID: 1465136291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_andar_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22998df1239cce4ba329197bb88f872
+      internalID: 878649660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_andar_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3cb6f382d5cd4890e0ffac5f9271a
+      internalID: -864411500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_andar_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d93d5873a6074c9b701d668368b21
+      internalID: 405887010
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: c4f98cf429cc5814d8920afe031cce79
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      yara_32x-removebg-preview_0: -4467333140024790848
+      yara_andar_0: 1465136291
+      yara_andar_1: 878649660
+      yara_andar_2: -864411500
+      yara_andar_3: 405887010
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

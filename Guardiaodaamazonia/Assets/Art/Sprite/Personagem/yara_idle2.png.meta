@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 971c2a40b93cd500a8153e5d62f65c6c
+guid: ec12f0efea4c63645bc6c7680529a2e0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4467333140024790848
-    second: yara_32x-removebg-preview_0
+      213: -8063117587910356253
+    second: yara_idle2_0
+  - first:
+      213: 6940811045062327201
+    second: yara_idle2_1
+  - first:
+      213: 1424119847385848667
+    second: yara_idle2_2
+  - first:
+      213: -6229739795727078942
+    second: yara_idle2_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: yara_32x-removebg-preview_0
+      name: yara_idle2_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 33
-        width: 189
-        height: 441
+        x: 0
+        y: 181
+        width: 217
+        height: 604
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c0fd779d28d002c0800000000000000
-      internalID: -4467333140024790848
+      spriteID: 3e21666264d0a1090800000000000000
+      internalID: -8063117587910356253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle2_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 319
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3c0a1fd6b25060800000000000000
+      internalID: 6940811045062327201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle2_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 181
+        width: 389
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5405b47d73c310800000000000000
+      internalID: 1424119847385848667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle2_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 181
+        width: 245
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a29099a48b89a0800000000000000
+      internalID: -6229739795727078942
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      yara_32x-removebg-preview_0: -4467333140024790848
+      yara_idle2_0: -8063117587910356253
+      yara_idle2_1: 6940811045062327201
+      yara_idle2_2: 1424119847385848667
+      yara_idle2_3: -6229739795727078942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

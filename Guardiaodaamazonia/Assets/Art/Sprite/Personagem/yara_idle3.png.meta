@@ -1,0 +1,1794 @@
+fileFormatVersion: 2
+guid: 37f7d7555f4409a4ab443c3052e1bb6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6611277169616188285
+    second: yara_idle3_0
+  - first:
+      213: -2895468504361597768
+    second: yara_idle3_1
+  - first:
+      213: -6929780439532656266
+    second: yara_idle3_2
+  - first:
+      213: 3057462173986973366
+    second: yara_idle3_3
+  - first:
+      213: 6982103971966590961
+    second: yara_idle3_4
+  - first:
+      213: -103132768053548921
+    second: yara_idle3_5
+  - first:
+      213: 1763842687646517995
+    second: yara_idle3_6
+  - first:
+      213: 4245005142938402626
+    second: yara_idle3_7
+  - first:
+      213: 2425614587039830151
+    second: yara_idle3_8
+  - first:
+      213: 5282022634500484392
+    second: yara_idle3_9
+  - first:
+      213: -5426378799590122034
+    second: yara_idle3_10
+  - first:
+      213: 5434461378545188998
+    second: yara_idle3_11
+  - first:
+      213: 191831450356761715
+    second: yara_idle3_12
+  - first:
+      213: -1703145381084161162
+    second: yara_idle3_13
+  - first:
+      213: -6072703044730202152
+    second: yara_idle3_14
+  - first:
+      213: 6945086350312486914
+    second: yara_idle3_15
+  - first:
+      213: -2342688578180687035
+    second: yara_idle3_16
+  - first:
+      213: 7393719332580814452
+    second: yara_idle3_17
+  - first:
+      213: -3996540502582571993
+    second: yara_idle3_18
+  - first:
+      213: 2200270705338553268
+    second: yara_idle3_19
+  - first:
+      213: -186610970396502084
+    second: yara_idle3_20
+  - first:
+      213: 6045523164617374865
+    second: yara_idle3_21
+  - first:
+      213: 7066036431243528748
+    second: yara_idle3_22
+  - first:
+      213: -8214797345604726798
+    second: yara_idle3_23
+  - first:
+      213: 6170026599957198851
+    second: yara_idle3_24
+  - first:
+      213: -4386000680417526914
+    second: yara_idle3_25
+  - first:
+      213: 3177811642276337845
+    second: yara_idle3_26
+  - first:
+      213: 7242071184518297037
+    second: yara_idle3_27
+  - first:
+      213: -191702227127047401
+    second: yara_idle3_28
+  - first:
+      213: -5958387086750081707
+    second: yara_idle3_29
+  - first:
+      213: 3620678688060626173
+    second: yara_idle3_30
+  - first:
+      213: 2233300076956410885
+    second: yara_idle3_31
+  - first:
+      213: -7857574431809529759
+    second: yara_idle3_32
+  - first:
+      213: 1646357428265091632
+    second: yara_idle3_33
+  - first:
+      213: 4228177929181475427
+    second: yara_idle3_34
+  - first:
+      213: 8098696022707067359
+    second: yara_idle3_35
+  - first:
+      213: 1491641332240058165
+    second: yara_idle3_36
+  - first:
+      213: -5428144569087646664
+    second: yara_idle3_37
+  - first:
+      213: 1777832316145878660
+    second: yara_idle3_38
+  - first:
+      213: 4899344640726411238
+    second: yara_idle3_39
+  - first:
+      213: 2884767442306976119
+    second: yara_idle3_40
+  - first:
+      213: 1790377004182320340
+    second: yara_idle3_41
+  - first:
+      213: -2114983001109582054
+    second: yara_idle3_42
+  - first:
+      213: -4829155596801690258
+    second: yara_idle3_43
+  - first:
+      213: 2410387165094908905
+    second: yara_idle3_44
+  - first:
+      213: 7769422648869966912
+    second: yara_idle3_45
+  - first:
+      213: -8128242703914199942
+    second: yara_idle3_46
+  - first:
+      213: 2367178437244752293
+    second: yara_idle3_47
+  - first:
+      213: 7819578271667800128
+    second: yara_idle3_48
+  - first:
+      213: 1973720034668083742
+    second: yara_idle3_49
+  - first:
+      213: -8114216841704971983
+    second: yara_idle3_50
+  - first:
+      213: -3324606472179920817
+    second: yara_idle3_51
+  - first:
+      213: -2457334490027979287
+    second: yara_idle3_52
+  - first:
+      213: -7966263605950577303
+    second: yara_idle3_53
+  - first:
+      213: -1915742207410619088
+    second: yara_idle3_54
+  - first:
+      213: -1373665475917706486
+    second: yara_idle3_55
+  - first:
+      213: -2137682074332772691
+    second: yara_idle3_56
+  - first:
+      213: 2145679035391857967
+    second: yara_idle3_57
+  - first:
+      213: -8750890973303303123
+    second: yara_idle3_58
+  - first:
+      213: 7417228079729874586
+    second: yara_idle3_59
+  - first:
+      213: 3234991934099078242
+    second: yara_idle3_60
+  - first:
+      213: -3604589997203975064
+    second: yara_idle3_61
+  - first:
+      213: -4841405938007019465
+    second: yara_idle3_62
+  - first:
+      213: 1706963396779569322
+    second: yara_idle3_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yara_idle3_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 907
+        width: 218
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737f96ce89ffbb50800000000000000
+      internalID: 6611277169616188285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 483
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b402337cba31d7d0800000000000000
+      internalID: -2895468504361597768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_2
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 354
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a432e76974df90800000000000000
+      internalID: -6929780439532656266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1008
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6efaae5a94e6a20800000000000000
+      internalID: 3057462173986973366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1008
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff99e9d19a65e060800000000000000
+      internalID: 6982103971966590961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1010
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788277b3b49919ef0800000000000000
+      internalID: -103132768053548921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_6
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 0
+        width: 442
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea47d4449d6a7810800000000000000
+      internalID: 1763842687646517995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 992
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fbc8ebfa949ea30800000000000000
+      internalID: 4245005142938402626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 984
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d38e8d9389a120800000000000000
+      internalID: 2425614587039830151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1000
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d69f8c9938d4940800000000000000
+      internalID: 5282022634500484392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd58b16b31a1b4b0800000000000000
+      internalID: -5426378799590122034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1000
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68004cda4d51b6b40800000000000000
+      internalID: 5434461378545188998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 994
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374434f00b589a200800000000000000
+      internalID: 191831450356761715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 972
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b91afac463d58e0800000000000000
+      internalID: -1703145381084161162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 968
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d75c6061cc69bba0800000000000000
+      internalID: -6072703044730202152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 984
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2083acc2d37e16060800000000000000
+      internalID: 6945086350312486914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 975
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bdc2676291d7fd0800000000000000
+      internalID: -2342688578180687035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 971
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eea633f84cb9660800000000000000
+      internalID: 7393719332580814452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cca15669f6988c0800000000000000
+      internalID: -3996540502582571993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 952
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b317698c8ee88e10800000000000000
+      internalID: 2200270705338553268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_20
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 960
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb75356af46096df0800000000000000
+      internalID: -186610970396502084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_21
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf964a94306e350800000000000000
+      internalID: 6045523164617374865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 934
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a4d3e52ba9f0260800000000000000
+      internalID: 7066036431243528748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 926
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff8869865d2ffd80800000000000000
+      internalID: -8214797345604726798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_24
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 936
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308f821a08650a550800000000000000
+      internalID: 6170026599957198851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_25
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 928
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b77138e9bc123c0800000000000000
+      internalID: -4386000680417526914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 920
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85bf41adad91c20800000000000000
+      internalID: 3177811642276337845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 358
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc53e474f51018460800000000000000
+      internalID: 7242071184518297037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 904
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71be07117dfe65df0800000000000000
+      internalID: -191702227127047401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_29
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 888
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d9cf3738e8f4da0800000000000000
+      internalID: -5958387086750081707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_30
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 896
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df45ea7651c3f3230800000000000000
+      internalID: 3620678688060626173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_31
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e6d366964efe10800000000000000
+      internalID: 2233300076956410885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 866
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681dcb7fa944f290800000000000000
+      internalID: -7857574431809529759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_33
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 826
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320115bb5909d610800000000000000
+      internalID: 1646357428265091632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_34
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 794
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362320cbc618daa30800000000000000
+      internalID: 4228177929181475427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9d259bf19546070800000000000000
+      internalID: 8098696022707067359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_36
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537857c73ef53b410800000000000000
+      internalID: 1491641332240058165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_37
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 722
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834a012264b5ba4b0800000000000000
+      internalID: -5428144569087646664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_38
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 706
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c51a72112ca810800000000000000
+      internalID: 1777832316145878660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_39
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 674
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e726be2ef7fdf340800000000000000
+      internalID: 4899344640726411238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_40
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 666
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c15264b0c80820800000000000000
+      internalID: 2884767442306976119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4b0544662b8d810800000000000000
+      internalID: 1790377004182320340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_42
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fafd88a2216a2e0800000000000000
+      internalID: -2114983001109582054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_43
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65bb8712946bfcb0800000000000000
+      internalID: -4829155596801690258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_44
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e394aa1b5a637120800000000000000
+      internalID: 2410387165094908905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_45
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044d4c72cb882db60800000000000000
+      internalID: 7769422648869966912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_46
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749809735ea23f80800000000000000
+      internalID: -8128242703914199942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_47
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 426
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a110ff2f38e9d020800000000000000
+      internalID: 2367178437244752293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_48
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0484f181209b48c60800000000000000
+      internalID: 7819578271667800128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_49
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a76701aef046b10800000000000000
+      internalID: 1973720034668083742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131eeaff5c2846f80800000000000000
+      internalID: -8114216841704971983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_51
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4050cf2700acd1d0800000000000000
+      internalID: -3324606472179920817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed01930d4bc5edd0800000000000000
+      internalID: -2457334490027979287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965813c1575227190800000000000000
+      internalID: -7966263605950577303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3116cc9ae965e0800000000000000
+      internalID: -1915742207410619088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_55
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b05b31782cfece0800000000000000
+      internalID: -1373665475917706486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_56
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cca4ba7d6552e0800000000000000
+      internalID: -2137682074332772691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d882e6bbf6cd10800000000000000
+      internalID: 2145679035391857967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 14
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24951426079e8680800000000000000
+      internalID: -8750890973303303123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_59
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961a5ee3a94fe660800000000000000
+      internalID: 7417228079729874586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cba3b360005ec20800000000000000
+      internalID: 3234991934099078242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_61
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8641bb7de7ce9fdc0800000000000000
+      internalID: -3604589997203975064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730ff9343fedfccb0800000000000000
+      internalID: -4841405938007019465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yara_idle3_63
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0f3ad5a2a50b710800000000000000
+      internalID: 1706963396779569322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yara_idle3_0: 6611277169616188285
+      yara_idle3_1: -2895468504361597768
+      yara_idle3_10: -5426378799590122034
+      yara_idle3_11: 5434461378545188998
+      yara_idle3_12: 191831450356761715
+      yara_idle3_13: -1703145381084161162
+      yara_idle3_14: -6072703044730202152
+      yara_idle3_15: 6945086350312486914
+      yara_idle3_16: -2342688578180687035
+      yara_idle3_17: 7393719332580814452
+      yara_idle3_18: -3996540502582571993
+      yara_idle3_19: 2200270705338553268
+      yara_idle3_2: -6929780439532656266
+      yara_idle3_20: -186610970396502084
+      yara_idle3_21: 6045523164617374865
+      yara_idle3_22: 7066036431243528748
+      yara_idle3_23: -8214797345604726798
+      yara_idle3_24: 6170026599957198851
+      yara_idle3_25: -4386000680417526914
+      yara_idle3_26: 3177811642276337845
+      yara_idle3_27: 7242071184518297037
+      yara_idle3_28: -191702227127047401
+      yara_idle3_29: -5958387086750081707
+      yara_idle3_3: 3057462173986973366
+      yara_idle3_30: 3620678688060626173
+      yara_idle3_31: 2233300076956410885
+      yara_idle3_32: -7857574431809529759
+      yara_idle3_33: 1646357428265091632
+      yara_idle3_34: 4228177929181475427
+      yara_idle3_35: 8098696022707067359
+      yara_idle3_36: 1491641332240058165
+      yara_idle3_37: -5428144569087646664
+      yara_idle3_38: 1777832316145878660
+      yara_idle3_39: 4899344640726411238
+      yara_idle3_4: 6982103971966590961
+      yara_idle3_40: 2884767442306976119
+      yara_idle3_41: 1790377004182320340
+      yara_idle3_42: -2114983001109582054
+      yara_idle3_43: -4829155596801690258
+      yara_idle3_44: 2410387165094908905
+      yara_idle3_45: 7769422648869966912
+      yara_idle3_46: -8128242703914199942
+      yara_idle3_47: 2367178437244752293
+      yara_idle3_48: 7819578271667800128
+      yara_idle3_49: 1973720034668083742
+      yara_idle3_5: -103132768053548921
+      yara_idle3_50: -8114216841704971983
+      yara_idle3_51: -3324606472179920817
+      yara_idle3_52: -2457334490027979287
+      yara_idle3_53: -7966263605950577303
+      yara_idle3_54: -1915742207410619088
+      yara_idle3_55: -1373665475917706486
+      yara_idle3_56: -2137682074332772691
+      yara_idle3_57: 2145679035391857967
+      yara_idle3_58: -8750890973303303123
+      yara_idle3_59: 7417228079729874586
+      yara_idle3_6: 1763842687646517995
+      yara_idle3_60: 3234991934099078242
+      yara_idle3_61: -3604589997203975064
+      yara_idle3_62: -4841405938007019465
+      yara_idle3_63: 1706963396779569322
+      yara_idle3_7: 4245005142938402626
+      yara_idle3_8: 2425614587039830151
+      yara_idle3_9: 5282022634500484392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
