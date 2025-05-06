@@ -7,6 +7,6 @@ public class Menu : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("fase1-vila");
+        SceneManager.LoadScene("Fase 1");
     }
 }
