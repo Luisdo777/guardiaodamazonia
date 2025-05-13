@@ -44,12 +44,8 @@ public class inimigos : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            collision.gameObject.GetComponent<Animator>().SetTrigger("Dead");
-            collision.gameObject.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
-            collision.gameObject.GetComponent<CapsuleCollider2D>().enabled = false;
-            collision.gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
-            collision.gameObject.GetComponent<Player>().enabled = false;
-            collision.gameObject.GetComponent<Animator>().SetBool("Jump", false);
+            collision.gameObject.GetComponent<PlayerLife>().LoseLife();
         }
     }
+    
 }
