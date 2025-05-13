@@ -2,20 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player :   MonoBehaviour
+public class Player : MonoBehaviour
 {
     private Animator playerAnim;
     private Rigidbody2D rbPlayer;
     public float speed;
     private SpriteRenderer sr;
     public float jumpForce;
-    public bool inFloor =  true;
+    public bool inFloor = true;
+
     void Start()
     {
         playerAnim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
         rbPlayer = GetComponent<Rigidbody2D>();
     }
+
     private void FixedUpdate()
     {
         MovePlayer();
@@ -25,6 +27,7 @@ public class Player :   MonoBehaviour
     {
         Jump();
     }
+
     void MovePlayer()
     {
         float horizontalMoviment = Input.GetAxisRaw("Horizontal");
@@ -35,7 +38,6 @@ public class Player :   MonoBehaviour
             playerAnim.SetBool("Walk", true);
             sr.flipX = false;
         }
-
         else if (horizontalMoviment < 0)
         {
             playerAnim.SetBool("Walk", true);
@@ -46,6 +48,7 @@ public class Player :   MonoBehaviour
             playerAnim.SetBool("Walk", false);
         }
     }
+
     void Jump()
     {
         if (Input.GetButtonDown("Jump") && inFloor)
@@ -55,12 +58,18 @@ public class Player :   MonoBehaviour
             inFloor = false;
         }
     }
+
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.name == "ground")
+        if (collision.gameObject.name == "ground")
         {
             playerAnim.SetBool("Jump", false);
             inFloor = true;
         }
+        // REMOVA ou COMENTE esta parte para evitar virar o inimigo só no toque
+        // if (collision.gameObject.tag == "Enemy")
+        // {
+        //     collision.gameObject.GetComponent<SpriteRenderer>().flipY = true;
+        // }
     }
 }

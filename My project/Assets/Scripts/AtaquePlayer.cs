@@ -1,47 +1,64 @@
+
+
+
 using UnityEngine;
 
 public class AtaquePlayer : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+
     private bool atacando;
     public Animator animator;
     public Transform ataquePoint;
     public float ataqueRanger = 0.5f;
     public LayerMask enemyLayers;
 
+    private SpriteRenderer sr;
+
     void Start()
     {
-        
+        sr = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
+
+
     void Update()
     {
         atacando = Input.GetButtonDown("Fire2");
 
-        if(atacando == true)
+ 
+        if(atacando)
         {
             Ataque();
         }
+    }
 
-        void Ataque()
+    void Ataque()
+    {
+        // Ativa a animação de ataque
+        animator.SetTrigger("Ataque");
+        
+        // Ajusta a posição do ponto de ataque baseado na direção
+        Vector2 direcaoAtaque = sr.flipX ? Vector2.left : Vector2.right;
+        Vector2 posicaoAtaque = (Vector2)transform.position + direcaoAtaque * Mathf.Abs(ataquePoint.localPosition.x);
+        
+        // Detecta inimigos no alcance
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(posicaoAtaque, ataqueRanger, enemyLayers);
+
+        foreach(Collider2D enemy in hitEnemies)
         {
-            // vai ser a animação de ataque;
-            animator.SetTrigger("Ataque");
-
-            // vai ser o ranger de ataque de acertar o nosso inimigo;
-            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(ataquePoint.position, ataqueRanger, enemyLayers);
-
-            foreach(Collider2D enemy in hitEnemies)
-            {
-                enemy.GetComponent<MorteInimigos>().DanoNoInimigo(100);
-            }
-
-            // vai ser o dano no inimigo;
+            enemy.GetComponent<MorteInimigos>().DanoNoInimigo(100);
         }
     }
+
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawWireSphere(ataquePoint.position, ataqueRanger);
+        if (ataquePoint != null)
+        {
+            Vector2 direcaoAtaque = sr != null && sr.flipX ? Vector2.left : Vector2.right;
+            Vector2 posicaoAtaque = (Vector2)transform.position + direcaoAtaque * Mathf.Abs(ataquePoint.localPosition.x);
+            Gizmos.DrawWireSphere(posicaoAtaque, ataqueRanger);
+        }
     }
 }
+
