@@ -3,20 +3,16 @@ using UnityEngine;
 public class MorteInimigos : MonoBehaviour
 {
     private int vidaAtual = 100;
-
     private bool morrendo = false;
 
     public void DanoNoInimigo(int dano)
     {
         if (morrendo) return;
         
-
-
         vidaAtual -= dano;
 
         if(vidaAtual <= 0)
         {
-
             MorrerDeCabecaParaBaixo();
         }
     }
@@ -52,4 +48,3 @@ public class MorteInimigos : MonoBehaviour
         Destroy(gameObject, 1f);
     }
 }
-

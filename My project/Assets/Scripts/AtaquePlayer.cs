@@ -1,18 +1,13 @@
 
-
-
 using UnityEngine;
 
 public class AtaquePlayer : MonoBehaviour
 {
-
-
     private bool atacando;
     public Animator animator;
     public Transform ataquePoint;
     public float ataqueRanger = 0.5f;
     public LayerMask enemyLayers;
-
     private SpriteRenderer sr;
 
     void Start()
@@ -20,13 +15,10 @@ public class AtaquePlayer : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
     }
 
-
-
     void Update()
     {
         atacando = Input.GetButtonDown("Fire2");
 
- 
         if(atacando)
         {
             Ataque();
@@ -61,4 +53,3 @@ public class AtaquePlayer : MonoBehaviour
         }
     }
 }
-
