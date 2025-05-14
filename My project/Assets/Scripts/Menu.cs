@@ -5,8 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public void StartGame()
+    public void LoadScenes(string cena)
     {
-        SceneManager.LoadScene("fase1-vila");
+        // Reseta as vidas ao carregar uma nova cena
+        
+        SceneManager.LoadScene(cena);
+        GameController.gc.ResetLives();
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }
