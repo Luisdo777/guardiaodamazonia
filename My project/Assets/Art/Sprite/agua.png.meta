@@ -103,20 +103,13 @@ TextureImporter:
       name: agua_0
       rect:
         serializedVersion: 2
- HEAD:My project/Assets/Art/Sprite/Personagem/yara_32x-removebg-preview.png.meta
-        x: 147
-        y: 33
-        width: 189
-        height: 441
-
         x: 48
         y: 71
         width: 396
         height: 330
-1b69db35da7b188beb9389441aa7bc776e07ebed:My project/Assets/Art/Sprite/agua.png.meta
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 13, y: 0, z: 14, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -132,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2a39d966af24954694011a2d8edbbd1
+    spriteID: 200e27ef4311f3b55ac911ca4681a479
     internalID: 0
     vertices: []
     indices: 
@@ -141,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      agua_0: -8623618863599700181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
